@@ -36,7 +36,7 @@
     </div>
     <div class="container">         
         <ul class="loginbar pull-right">
-            <li><a>+7 908 921-25-62<i class="icon-sort-up"></i></a></li>              
+            <li><a>+7 343 385-13-78<i class="icon-sort-up"></i></a></li>              
         </ul>
     </div>      
 </div>

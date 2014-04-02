@@ -164,7 +164,7 @@
     <div class="row-fluid margin-bottom-5">
         <blockquote class="hero pagination-centered">
             <h1 class="color-green">Есть вопросы? Мы готовы ответить на них!</h1>
-            <h2>Звоните по телефону +7 908 921-25-62</h2>            
+            <h2>Звоните по телефону +7 343 385-13-78</h2>            
         </blockquote>
     </div>
 
