@@ -24,7 +24,7 @@
             
             <div class="headline"><h3>Контакты</h3></div>
             <ul class="unstyled who margin-bottom-20">
-                <li><a href="#"><i class="icon-home"></i>ул. Бажова, 75а, офис 306</a></li>
+                <li><a href="#"><i class="icon-home"></i>ул. Бажова, 75а, офис 214</a></li>
                 <li><a href="#"><i class="icon-envelope-alt"></i>rmk096@gmail.com</a></li>
                 <li><a href="#"><i class="icon-phone-sign"></i> +7 343 385-13-78</a></li>
                 <li><a href="#"><i class="icon-globe"></i>http://rmk96.ru</a></li>
